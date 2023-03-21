@@ -1,3 +1,27 @@
+By using this appliaction we can simply learn all about the basics of Computer science along with C language and it's programs.
+
+How to use app ?  
+
+--> Go to Introduction computer Science ( Communication skills and IBM mainframe courses are not updated yet).
+
+you can see different chapters.
+
+* on each chapter page you can go to next or previous chapters with the help of previous & next buttons.
+
+* on each page you'll have a link # back , which helps you to come out to the main chapter page.
+
+* on each page you'll have a button # Complete, by using this you can mark as chapter completed whenver you finished the course.
+
+* In the navbar, by using Home button , you'll navigate to home screen and your score will be updated whenver you clicked on completed button in the respective chapter.
+
+* Please note that it's just like a blue print, I need to design & update it more
+
+* used --> React-Tooltip, Fa Icons, Routes, UseContext, UseState and etc.
+
+* Total app is styled using Bootstrap (I've installed the latest bootstrap version).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
